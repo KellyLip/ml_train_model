@@ -5,7 +5,7 @@ This repository contains scripts to train and validate a Random Forest model wit
 ## Repository Contents
 
 - **`train_model_RFR.py`**: Python script to train and validate the model on a dataset.
-- **`run_train_model.sh`**: Bash script to provide input parameters and execute the Python script.
+- **`run_train_model_RFR.sh`**: Bash script to provide input parameters and execute the Python script.
 - **`requirements.txt`**: List of Python dependencies.
 
 ## Requirements
